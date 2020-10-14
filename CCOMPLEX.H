@@ -1,6 +1,7 @@
 #ifndef _ccomplex_h
 #define _ccomplex_h
 #include <iostream.h>
+
 class Ccomplex
 {
 	private:
