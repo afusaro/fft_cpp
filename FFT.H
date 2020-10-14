@@ -17,6 +17,7 @@
 #define ERROR_CANT_FILEIN -6;
 #define OK 0
 
+//t
 int fft(int cant_samples,Ccomplex* fft_array);
 
 int getTwiddles(Ccomplex* & twiddle,int cant);
