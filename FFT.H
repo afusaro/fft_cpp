@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "ccomplex.h"
-
+//primera edicon
 #define EPSILON (1e-10)
 #define CANT_PARAM (1+2)
 #define POS_FNAME_IN 1
