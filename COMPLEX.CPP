@@ -1,11 +1,11 @@
 #include "ccomplex.h"
 #include <iostream.h>
-//otro gil2
+
 Ccomplex::Ccomplex(float real, float imag)
 {
 	this->real=real;
 	this->imag=imag;
-}//el maser
+}
 
 Ccomplex
 Ccomplex:: operator + (Ccomplex a)
