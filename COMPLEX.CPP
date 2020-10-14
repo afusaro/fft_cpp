@@ -5,7 +5,7 @@ Ccomplex::Ccomplex(float real, float imag)
 {
 	this->real=real;
 	this->imag=imag;
-}
+}//el maser
 
 Ccomplex
 Ccomplex:: operator + (Ccomplex a)
