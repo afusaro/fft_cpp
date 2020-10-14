@@ -18,7 +18,7 @@
 #define OK 0
 
 //segunda edicon
-
+//tercera
 int fft(int cant_samples,Ccomplex* fft_array);
 
 int getTwiddles(Ccomplex* & twiddle,int cant);
