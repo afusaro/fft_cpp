@@ -16,9 +16,7 @@
 #define ERROR_2POWER -5
 #define ERROR_CANT_FILEIN -6;
 #define OK 0
-
-
-
+//test
 int fft(int cant_samples,Ccomplex* fft_array);
 
 int getTwiddles(Ccomplex* & twiddle,int cant);
