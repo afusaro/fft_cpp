@@ -1,6 +1,6 @@
 #include "ccomplex.h"
 #include <iostream.h>
-
+//other comment
 Ccomplex::Ccomplex(float real, float imag)
 {
 	this->real=real;
